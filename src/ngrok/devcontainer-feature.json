@@ -1,0 +1,10 @@
+{
+    "name": "Ngrok",
+    "id": "ngrok",
+    "version": "3.1.1",
+    "description": "A tunneling, reverse proxy for developing and understanding networked, HTTP services",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
