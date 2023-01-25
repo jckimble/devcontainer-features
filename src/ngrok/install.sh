@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
-local scriptUrl=https://bin.equinox.io/a/dqrwdoEvP2Q/ngrok-v3-3.1.1-linux-amd64
-local outFile=/usr/bin/ngrok
+scriptUrl=https://bin.equinox.io/a/dqrwdoEvP2Q/ngrok-v3-3.1.1-linux-amd64
+outFile=/usr/bin/ngrok
 
 # Checks if packages are installed and installs them if not
 check_packages() {
