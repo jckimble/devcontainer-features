@@ -1,0 +1,10 @@
+{
+    "name": "hledger",
+    "id": "hledger",
+    "version": "1.32.2",
+    "description": "Robust, intuitive plain text accounting",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
