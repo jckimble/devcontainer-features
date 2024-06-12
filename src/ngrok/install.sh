@@ -1,6 +1,7 @@
 #!/bin/sh
 set -e
-scriptUrl=https://bin.equinox.io/a/dqrwdoEvP2Q/ngrok-v3-3.1.1-linux-amd64
+NGROK_VERSION="${VERSION:-"latest"}"
+scriptUrl=https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-${NGROK_VERSION}-linux-amd64
 outFile=/usr/bin/ngrok
 
 # Checks if packages are installed and installs them if not
