@@ -15,7 +15,7 @@ A tunneling, reverse proxy for developing and understanding networked, HTTP serv
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-
+| version | select or enter a NGROK version to install | string | stable |
 
 
 
