@@ -1,7 +1,7 @@
 {
     "name": "hledger",
     "id": "hledger",
-    "version": "1.32.2",
+    "version": "1.41.0",
     "description": "Robust, intuitive plain text accounting",
     "options": {},
     "installsAfter": [
